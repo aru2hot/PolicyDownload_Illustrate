@@ -1,0 +1,7 @@
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\bin\Release\DownloadPolicies.dll
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\bin\Release\DownloadPolicies.pdb
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\bin\Release\Models.dll
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\bin\Release\Models.pdb
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\obj\Release\DownloadPolicies.csprojResolveAssemblyReference.cache
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\obj\Release\DownloadPolicies.dll
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadPolicies\obj\Release\DownloadPolicies.pdb

@@ -1,0 +1,7 @@
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\bin\x64\Debug\DownloadXML_Beta.dll
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\bin\x64\Debug\DownloadXML_Beta.pdb
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\bin\x64\Debug\Models.dll
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\bin\x64\Debug\Models.pdb
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\obj\x64\Debug\IllustratePDF.csprojResolveAssemblyReference.cache
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\obj\x64\Debug\DownloadXML_Beta.dll
+D:\Arvind\Illustration\RegressionTool\DownloadPolicyXML\DownloadXML_Beta\obj\x64\Debug\DownloadXML_Beta.pdb
